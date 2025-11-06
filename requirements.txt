@@ -3,3 +3,4 @@ numpy
 tensorflow-cpu
 opencv-python-headless
 gTTS
+cv2
