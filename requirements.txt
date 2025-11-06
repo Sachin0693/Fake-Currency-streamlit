@@ -1,0 +1,5 @@
+streamlit
+numpy
+tensorflow-cpu
+opencv-python-headless
+gTTS
