@@ -1,6 +1,6 @@
-streamlit
-numpy
-tensorflow-cpu
-opencv-python-headless
-gTTS
 cv2
+streamlit==1.35.0
+numpy==1.26.4
+tensorflow-cpu==2.16.1
+opencv-python-headless==4.9.0.80
+gTTS==2.5.1
